@@ -61,7 +61,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Santosh1948/Santosh1948/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Santosh1948/Santosh1948/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
